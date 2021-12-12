@@ -13,7 +13,7 @@ global.APIKeys = {
 
 global.packname = 'Punya Sabiq <3'
 global.author = 'Ig: @assbq_k'
-global.wm = 'Punya Sabiq <3 Ig: @assbq_k'
+global.wm = '*Sakura-Botz Created By ©BiqqTzy*'
 global.eror = '*Error*'
 global.wait = '*tunggu..*'
 global.benar = '✅'
